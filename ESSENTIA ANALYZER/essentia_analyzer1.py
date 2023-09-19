@@ -26,8 +26,8 @@ CREATE TABLE IF NOT EXISTS tracks_data (
 ''')
 
 # Определяем директорию с входными файлами
-input_dir = "/home/user/Documents/Privat/DJ HELP/wav converted"
-#input_dir = "/home/user/Documents/Privat/DJ HELP/wav converted/5tracks"
+#input_dir = "/home/user/Documents/Privat/DJ HELP/wav converted"
+input_dir = "/home/user/Documents/6IX SENSE/5tracks"
 
 # Функция для расчета BPM с помощью Essentia
 def calculate_bpm(wav_file):

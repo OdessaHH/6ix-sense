@@ -1,0 +1,5 @@
+Filename: DJulz - Timeless Bass.wav, Tempo: 126.04801829268293, Tempo_Essentia: 124.83343505859375, Chroma_STFT_Mean: 0.5557182431221008, Spectral_Centroid_Mean: 2121.1726667500525
+Filename: Cant Get You out of My Head (Peggy Gou’s Midnight Remix).wav, Tempo: 126.04801829268293, Tempo_Essentia: 126.00569152832031, Chroma_STFT_Mean: 0.5081979036331177, Spectral_Centroid_Mean: 2952.9324818892337
+Filename: Dj Void - Air Rays Love [PL002].wav, Tempo: 126.04801829268293, Tempo_Essentia: 127.0126724243164, Chroma_STFT_Mean: 0.6587870717048645, Spectral_Centroid_Mean: 2121.593711753015
+Filename: Early Years (Terence Terry Remix).wav, Tempo: 126.04801829268293, Tempo_Essentia: 127.01392364501953, Chroma_STFT_Mean: 0.6317670941352844, Spectral_Centroid_Mean: 2776.043771962533
+Filename: (((IEMN))) Salt Tank - Pacific Diva Eugina - Internal 1994 - Trance Techno.wav, Tempo: 132.51201923076923, Tempo_Essentia: 133.82196044921875, Chroma_STFT_Mean: 0.5043743252754211, Spectral_Centroid_Mean: 2609.7074682894713
